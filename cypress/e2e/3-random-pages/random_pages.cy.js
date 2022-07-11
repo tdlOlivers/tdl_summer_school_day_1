@@ -5,7 +5,7 @@ import KatalonMakeAnAppoitmentPage from "../../pageObjects/katalon/KatalonMakeAn
 import KatalonSummaryPage from "../../pageObjects/katalon/KatalonSummary.page";
 import KatalonHistoryPage from "../../pageObjects/katalon/KatalonHistory.page";
 
-describe("example to-do app", () => {
+describe("Random pages", () => {
   // Created seperate scenario pack for dukcduckgo after lecture
   describe("duckduckgo", () => {
     beforeEach(() => {
